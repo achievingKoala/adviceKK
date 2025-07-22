@@ -241,8 +241,19 @@ document.addEventListener('DOMContentLoaded', () => {
     const adviceEnElement = document.getElementById('advice-en');
     const adviceZhElement = document.getElementById('advice-zh');
     const newAdviceBtn = document.getElementById('new-advice-btn');
+    const toggleEnBtn = document.getElementById('toggle-en-btn');
+    const toggleZhBtn = document.getElementById('toggle-zh-btn');
 
     let lastIndex = -1;
+    let showEn = true;
+    let showZh = true;
+
+    function updateVisibility() {
+        adviceEnElement.style.display = showEn ? '' : 'none';
+        adviceZhElement.style.display = showZh ? '' : 'none';
+        toggleEnBtn.textContent = showEn ? '隐藏英文 / Hide English' : '显示英文 / Show English';
+        toggleZhBtn.textContent = showZh ? '隐藏中文 / Hide Chinese' : '显示中文 / Show Chinese';
+    }
 
     function getNewAdvice() {
         let randomIndex;
@@ -256,9 +267,20 @@ document.addEventListener('DOMContentLoaded', () => {
         const advice = adviceData[randomIndex];
         adviceEnElement.textContent = advice.en;
         adviceZhElement.textContent = advice.zh;
+        updateVisibility();
     }
 
     newAdviceBtn.addEventListener('click', getNewAdvice);
+
+    toggleEnBtn.addEventListener('click', () => {
+        showEn = !showEn;
+        updateVisibility();
+    });
+
+    toggleZhBtn.addEventListener('click', () => {
+        showZh = !showZh;
+        updateVisibility();
+    });
 
     // Show the first advice on page load
     getNewAdvice();
