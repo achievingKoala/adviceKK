@@ -1,0 +1,128 @@
+body {
+    font-family: 'Merriweather', serif;
+    background-color: #fdfdfd;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.container {
+    max-width: 650px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    font-size: 2.2rem;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-family: 'Noto Serif SC', serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #666;
+    margin-top: 5px;
+    margin-bottom: 40px;
+}
+
+#advice-card {
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 1px solid #eee;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.07);
+    padding: 35px 45px;
+    margin-bottom: 40px;
+    min-height: 200px;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transition: transform 0.3s ease;
+}
+
+#advice-card:hover {
+    transform: translateY(-5px);
+}
+
+#advice-en {
+    font-size: 1.5rem;
+    line-height: 1.6;
+    margin: 10px 0;
+    font-style: italic;
+    color: #222;
+}
+
+#advice-zh {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.4rem;
+    line-height: 1.8;
+    color: #444;
+    margin: 10px 0;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #e0e0e0;
+    margin: 20px auto;
+    width: 50%;
+}
+
+#new-advice-btn {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 50px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    font-family: 'Merriweather', sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+#new-advice-btn:hover {
+    background-color: #555;
+}
+
+#new-advice-btn:active {
+    transform: scale(0.98);
+}
+
+footer {
+    margin-top: 50px;
+    color: #999;
+    font-size: 0.9rem;
+}
+
+@media (max-width: 600px) {
+    h1 {
+        font-size: 1.8rem;
+    }
+    h2 {
+        font-size: 1.2rem;
+    }
+    #advice-card {
+        padding: 25px 30px;
+    }
+    #advice-en {
+        font-size: 1.2rem;
+    }
+    #advice-zh {
+        font-size: 1.1rem;
+    }
+} 
