@@ -247,6 +247,8 @@ document.addEventListener('DOMContentLoaded', () => {
     let lastIndex = -1;
     let showEn = true;
     let showZh = true;
+    let historyStack = [];
+    let forwardStack = [];
 
     function updateVisibility() {
         adviceEnElement.style.display = showEn ? '' : 'none';
@@ -255,22 +257,46 @@ document.addEventListener('DOMContentLoaded', () => {
         toggleZhBtn.textContent = showZh ? '隐藏中文 / Hide Chinese' : '显示中文 / Show Chinese';
     }
 
-    function getNewAdvice() {
-        let randomIndex;
-        // Ensure the new advice is different from the last one
-        do {
-            randomIndex = Math.floor(Math.random() * adviceData.length);
-        } while (adviceData.length > 1 && randomIndex === lastIndex);
-        
-        lastIndex = randomIndex;
-        
-        const advice = adviceData[randomIndex];
+    function showAdviceByIndex(index) {
+        lastIndex = index;
+        const advice = adviceData[index];
         adviceEnElement.textContent = advice.en;
         adviceZhElement.textContent = advice.zh;
         updateVisibility();
     }
 
+    function getNewAdvice() {
+        let randomIndex;
+        do {
+            randomIndex = Math.floor(Math.random() * adviceData.length);
+        } while (adviceData.length > 1 && randomIndex === lastIndex);
+        if (lastIndex !== -1) {
+            historyStack.push(lastIndex);
+            // 清空前进栈
+            forwardStack = [];
+        }
+        showAdviceByIndex(randomIndex);
+    }
+
+    function getPrevAdvice() {
+        if (historyStack.length > 0) {
+            forwardStack.push(lastIndex);
+            const prevIndex = historyStack.pop();
+            showAdviceByIndex(prevIndex);
+        }
+    }
+
+    function getForwardAdvice() {
+        if (forwardStack.length > 0) {
+            historyStack.push(lastIndex);
+            const nextIndex = forwardStack.pop();
+            showAdviceByIndex(nextIndex);
+        }
+    }
+
     newAdviceBtn.addEventListener('click', getNewAdvice);
+
+    document.getElementById('prev-advice-btn').addEventListener('click', getPrevAdvice);
 
     toggleEnBtn.addEventListener('click', () => {
         showEn = !showEn;
