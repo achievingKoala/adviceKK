@@ -23,6 +23,8 @@ document.addEventListener('DOMContentLoaded', () => {
     function showAdviceByIndex(index) {
         lastIndex = index;
         const advice = adviceData[index];
+        const adviceIdElement = document.getElementById('advice-id');
+        adviceIdElement.textContent = `# ${advice.id}`;
         adviceEnElement.textContent = advice.en;
         adviceZhElement.textContent = advice.zh;
         updateVisibility();
