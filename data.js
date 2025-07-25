@@ -598,5 +598,1705 @@ export const adviceData = [
         "id": 120,
         "en": "Superheroes and saints never make art. Only imperfect beings can make art because art begins in what is broken.",
         "zh": "超级英雄和圣人从不创作艺术。只有不完美的人才能创造艺术，因为艺术诞生于不完美之中。"
+    },
+    {
+        "id": 121,
+        "en": "If someone is trying to convince you it’s not a pyramid scheme it’s a pyramid scheme.",
+        "zh": "如果有人试图说服你这不是传销，那它就是传销。"
+    },
+    {
+        "id": 122,
+        "en": "Don’t create things to make money; make money so you can create things. The reward for good work is more work.",
+        "zh": "不要为了赚钱而创造事物；而应为了能创造事物而去赚钱。好工作的回报是更多的工作。"
+    },
+    {
+        "id": 123,
+        "en": "Leave a gate behind you the way you first found it.",
+        "zh": "离开时，把门恢复到你最初发现它的样子。"
+    },
+    {
+        "id": 124,
+        "en": "In 100 years a lot of what we take to be true now will be proved to be wrong, maybe even embarrassingly wrong. A good question to ask yourself today is “What might I be wrong about?” This is the only worry worth having.",
+        "zh": "一百年后，我们现在认为的许多真理都会被证明是错误的，甚至可能令人尴尬地错了。今天值得问自己的一个好问题是：“我可能错在哪？”这才是唯一值得担心的事情。"
+    },
+    {
+        "id": 125,
+        "en": "Learn how to tie a bowline knot. Practice in the dark. With one hand. For the rest of your life you’ll use this knot more times than you would ever believe.",
+        "zh": "学会打一个船结（蝴蝶结）。在黑暗中练习，用一只手。你会在以后的人生里比你想象得更多次用到它。"
+    },
+    {
+        "id": 126,
+        "en": "The greatest rewards come from working on something that nobody has words for. If you possibly can work where there are no names for what you do.",
+        "zh": "最丰厚的回报来源于做那些没人能用语言描述的事情。如果可以，尽量去做那些还没有名字的工作。"
+    },
+    {
+        "id": 127,
+        "en": "On the way to a grand goal celebrate the smallest victories as if each one were the final goal. That way, no matter where it ends you are victorious.",
+        "zh": "在追逐伟大目标的途中，要像庆祝最终目标一样庆祝每一个小胜利。这样，无论结果如何，你都是胜利者。"
+    },
+    {
+        "id": 128,
+        "en": "In all things—except love— start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of.",
+        "zh": "做任何事——除了爱情——都要从退出策略开始。为结局做好准备。进入一件事总比脱身要容易得多。"
+    },
+    {
+        "id": 129,
+        "en": "Don’t aim to have others like you; aim to have them respect you.",
+        "zh": "不要追求别人喜欢你，而要让别人尊重你。"
+    },
+    {
+        "id": 130,
+        "en": "The foundation of maturity: Just because it’s not your fault doesn’t mean it’s not your responsibility.",
+        "zh": "成熟的基础是：不是你的错并不等于不用你负责。"
+    },
+    {
+        "id": 131,
+        "en": "A multitude of bad ideas is necessary for one good idea.",
+        "zh": "一个好想法往往需要经历无数坏想法的堆积。"
+    },
+    {
+        "id": 132,
+        "en": "The hard part in predicting the future is to forget everything you expect it to be.",
+        "zh": "预测未来最难的是忘记你对它的所有预期。"
+    },
+    {
+        "id": 133,
+        "en": "Compliment people behind their back. It’ll come back to you.",
+        "zh": "背后夸奖别人，这会回到你身上。"
+    },
+    {
+        "id": 134,
+        "en": "Most overnight successes —in fact, any significant successes— take at least 5 years. Budget your life accordingly.",
+        "zh": "多数所谓的“一夜成名”——事实上任何重大的成功——都需要至少五年。要相应地规划自己的人生。"
+    },
+    {
+        "id": 135,
+        "en": "The job of a grandparent is to grandparent, not to parent. Parent’s house, parent rules. Grandparent’s house, grandparent rules.",
+        "zh": "祖父母的职责只是当祖父母，不是父母。在父母家听父母的规则，在祖父母家听祖父母的规则。"
+    },
+    {
+        "id": 136,
+        "en": "You don’t need more time because you already have all the time that you will ever get; you need more focus.",
+        "zh": "你不需要更多时间，因为你拥有的时间就是全部，你需要的是更多专注。"
+    },
+    {
+        "id": 137,
+        "en": "The foolish person winds up doing at the end what the smart person does at the beginning.",
+        "zh": "愚蠢的人到最后做的，往往是聪明人在一开始就做的事情。"
+    },
+    {
+        "id": 138,
+        "en": "For marital bliss take turns allowing each partner to be always right.",
+        "zh": "要获得婚姻幸福，要轮流让对方永远是对的。"
+    },
+    {
+        "id": 139,
+        "en": "If the cost of something is not advertised it is a sign that it’s more than you can afford.",
+        "zh": "如果一个东西没有标明价格，那它很可能贵到你负担不起。"
+    },
+    {
+        "id": 140,
+        "en": "Everyone’s time is finite and shrinking. The highest leverage you can get with your money is to buy someone else’s time. Hire and outsource when you can.",
+        "zh": "每个人的时间都是有限并且在缩减的。用钱能获得的最大杠杆是买别人的时间。能雇佣就雇佣，能外包就外包。"
+    },
+    {
+        "id": 141,
+        "en": "Your best response to an insult is “You’re probably right.” Often they are.",
+        "zh": "面对侮辱，最好的回应是“你也许说得对”。其实往往他们确实说对了。"
+    },
+    {
+        "id": 142,
+        "en": "Assume anyone asking for your account information for any reason is guilty of scamming you unless proven innocent. The way to prove innocence is to call them back, or log in to your account using numbers or a website that you provide not them. Don’t release any identifying information while they are contacting you via phone, message, or email. You must control the channel.",
+        "zh": "凡是要你账户信息的，不管理由是什么，都假定是骗子，除非对方证明清白。证明清白的方式是你自己回拨电话，或用你自己知道的网站或号码登陆账户，不用对方提供的任何信息。在对方通过电话、短信、邮件联系你的时候，不要泄露个人信息。你必须掌控沟通渠道。"
+    },
+    {
+        "id": 143,
+        "en": "Fear makes people do stupid things so don’t trust anything made in fear.",
+        "zh": "恐惧会让人做蠢事，所以不要相信任何因恐惧而做出的东西。"
+    },
+    {
+        "id": 144,
+        "en": "Be strict with yourself, forgiving of others. The reverse is hell for everyone.",
+        "zh": "对自己要严格，对他人要宽容。反过来对大家都是灾难。"
+    },
+    {
+        "id": 145,
+        "en": "If you can avoid seeking the approval of others your power is limitless.",
+        "zh": "如果你能做到不在乎他人认可，你的力量将无穷。"
+    },
+    {
+        "id": 146,
+        "en": "Your passions should fit you exactly but your purpose in life should exceed you. Work for something much larger than yourself.",
+        "zh": "激情应与自己契合，而人生目标则应超越自己。为更大的事业而努力。"
+    },
+    {
+        "id": 147,
+        "en": "When a child asks an endless string of “Why?” questions, the smartest reply is “I don’t know, what do you think?”",
+        "zh": "当孩子不停地问“为什么”的时候，最聪明的回答是：“我不知道，你觉得呢？”"
+    },
+    {
+        "id": 148,
+        "en": "Recipe for success: underpromise and overdeliver.",
+        "zh": "成功法则：少承诺，超额完成。"
+    },
+    {
+        "id": 149,
+        "en": "Show me your calendar and I will tell you your priorities. Tell me who your friends are and I’ll tell you where you’re going.",
+        "zh": "给我看看你的日历，我就能知道你的优先级是什么。告诉我你的朋友，我就知道你未来会怎样。"
+    },
+    {
+        "id": 150,
+        "en": "When brainstorming improvising jamming with others you’ll go much further and deeper if you build upon each contribution with a playful “yes—and” example instead of a deflating “no—but” reply.",
+        "zh": "在头脑风暴、即兴创作、与人协作时，当你用“是的，并且……”代替“不是，但是……”接纳对方的想法，你们会走得更远更深入。"
+    },
+    {
+        "id": 151,
+        "en": "Work to become, not to acquire.",
+        "zh": "努力成为某种人，而不是只为获取什么。"
+    },
+    {
+        "id": 152,
+        "en": "Contemplating the weaknesses of others is easy; contemplating the weaknesses in yourself is hard but it pays a much higher reward.",
+        "zh": "反思别人的弱点很容易，反思自己的弱点很难，但回报却更大。"
+    },
+    {
+        "id": 153,
+        "en": "When you are young have friends who are older; when you are old have friends who are younger.",
+        "zh": "年轻时要有年长的朋友，年老时要有年轻的朋友。"
+    },
+    {
+        "id": 154,
+        "en": "You will complete your mission in life when you figure out what your mission in life is. Your purpose is to discover your purpose. This is not a paradox. This is the way.",
+        "zh": "当你明白自己人生的使命时，你就完成了人生使命。你的目的就是去发现你的目的。这并不是悖论，而是道理。"
+    },
+    {
+        "id": 155,
+        "en": "With sharp things always cut away from yourself.",
+        "zh": "用刀具时，永远朝远离自己的方向切割。"
+    },
+    {
+        "id": 156,
+        "en": "Calm is contagious. Be calm to help others.",
+        "zh": "冷静是可以传递的。保持冷静，感染他人。"
+    },
+    {
+        "id": 157,
+        "en": "When someone tells you something is wrong, they’re usually right. When they tell you how to fix it they’re usually wrong.",
+        "zh": "当别人告诉你哪里不对时，通常他们是对的。当他们告诉你该怎么修正时，通常他们是错的。"
+    },
+    {
+        "id": 158,
+        "en": "You are only as young as the last time you changed your mind.",
+        "zh": "你最后一次改变主意的时间，就是你真正的年龄。"
+    },
+    {
+        "id": 159,
+        "en": "When hitchhiking look like the person you want to pick you up.",
+        "zh": "搭便车时，看起来像你希望接你的人那样。"
+    },
+    {
+        "id": 160,
+        "en": "Worth repeating: Measure twice, cut once.",
+        "zh": "值得一再强调：量两遍，只切一次。"
+    },
+    {
+        "id": 161,
+        "en": "Money is overrated. Truly new things rarely need an abundance of money. If that was so, billionaires would have a monopoly on inventing new things, and they don’t. Instead, almost all breakthroughs are made by those who lack money. If breakthroughs could be bought, then the rich would buy them. Instead, passion, persistence, belief, and ingenuity are required to invent new things qualities the poor and young often have in abundance. Stay hungry.",
+        "zh": "金钱被高估了。真正的新事物很少需要大量资金，否则亿万富翁早已把创新垄断了。实际上，几乎所有突破都是缺钱人做出的。如果用钱能买来突破，富人早就全买了。发明新事物需要激情、毅力、信念和创造力，这些穷人和年轻人常常不缺。保持饥饿感。"
+    },
+    {
+        "id": 162,
+        "en": "If you can’t tell what you desperately need it’s probably sleep.",
+        "zh": "如果你不知道自己最需要什么，很可能你缺的是睡眠。"
+    },
+    {
+        "id": 163,
+        "en": "Ignore what others may be thinking of you because they aren’t thinking of you.",
+        "zh": "不要在意别人是否在想你，因为他们根本没想你。"
+    },
+    {
+        "id": 164,
+        "en": "Writing down one thing you are grateful for each day is the cheapest possible therapy ever.",
+        "zh": "每天写下一件值得感恩的事情，这是最廉价的疗法。"
+    },
+    {
+        "id": 165,
+        "en": "If you meet a jerk, ignore them. If you meet jerks everywhere every day look deeper into yourself.",
+        "zh": "如果你遇到了个混蛋，无视他就好。如果你每天都遇到混蛋，要向自己内心深处寻找原因。"
+    },
+    {
+        "id": 166,
+        "en": "It is much easier to change how you think by changing your behavior than it is to change your behavior by changing how you think. Act out the change you seek.",
+        "zh": "通过改变行为来改变思维，比通过改变思维来改变行为要容易得多。先做，再变。"
+    },
+    {
+        "id": 167,
+        "en": "If you think you saw a mouse, you did. And if there is one, there are more.",
+        "zh": "如果你觉得看见了老鼠，那就是看见了。而且，有一只就意味着还有更多。"
+    },
+    {
+        "id": 168,
+        "en": "Don’t worry how or where you begin. As long as you keep moving, your success will arrive far from where you start.",
+        "zh": "别担心你从哪里，以及用什么方式开始。只要你不断前进，成功一定远离起点。"
+    },
+    {
+        "id": 169,
+        "en": "Avoid hitting the snooze button. That’s just training you to oversleep.",
+        "zh": "不要按贪睡按钮，那会让你变得越来越爱赖床。"
+    },
+    {
+        "id": 170,
+        "en": "You’ll learn a lot more if you ask people “how are you sleeping?” instead of “how are you doing?”",
+        "zh": "问别人“最近睡得好吗？”比问“你还好吗？”会得到更多信息。"
+    },
+    {
+        "id": 171,
+        "en": "Generally, say less than necessary.",
+        "zh": "通常，话要说得比需要的少。"
+    },
+    {
+        "id": 172,
+        "en": "Each time you connect to people bring them a blessing; then they’ll be happy to see you when you bring them a problem.",
+        "zh": "每次与人接触都带去祝福，这样当你带去难题时他们也会乐于见你。"
+    },
+    {
+        "id": 173,
+        "en": "Even in the tropics it gets colder at night than you think. Pack warmly.",
+        "zh": "即使在热带，夜晚也比你想象得更冷。记得带保暖衣物。"
+    },
+    {
+        "id": 174,
+        "en": "The work on any worthy project is endless, infinite. You cannot limit the work so you must limit your hours. Your time, not the work is the only thing you can manage.",
+        "zh": "任何有价值的项目其工作都是无止境的。你无法限制工作量，只能限制自己投入的时间。你能管理的只有你的时间。"
+    },
+    {
+        "id": 175,
+        "en": "You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it.",
+        "zh": "如果你多理解别人为什么会有愚蠢的信仰，你就会少一些恼火。"
+    },
+    {
+        "id": 176,
+        "en": "This is the best time ever to make something. None of the greatest, coolest creations 20 years from now have been invented yet. You are not late.",
+        "zh": "现在正是做点什么的最佳时机。未来二十年最伟大、最酷的创作如今还没人发明。你一点都不晚。"
+    },
+    {
+        "id": 177,
+        "en": "To transcend the influence of your heroes copy them shamelessly like a student until you get them out of your system. That is the way of all masters.",
+        "zh": "想要超越你的偶像，就像学生一样毫无羞耻地模仿他们，直到完全吸收他们。所有大师都是这样做的。"
+    },
+    {
+        "id": 178,
+        "en": "Things do not need to be perfect to be wonderful. Especially weddings.",
+        "zh": "美妙的事物不必完美，婚礼尤其如此。"
+    },
+    {
+        "id": 179,
+        "en": "When you are stuck, sleep on it. Give your subconscious an assignment while you sleep. You’ll have an answer in the morning.",
+        "zh": "当你陷入困境时，睡一觉。在睡觉时让潜意识去思考，早上你会有答案。"
+    },
+    {
+        "id": 180,
+        "en": "All the greatest prizes in life in wealth, relationships, or knowledge come from the magic of compounding interest by amplifying small steady gains. All you need for abundance is to keep adding 1% more than you subtract on a regular basis.",
+        "zh": "人生中最珍贵的财富、关系和知识，不断通过复利魔力累积而来。想要丰盛的人生，只需持续地让每次进步多于每次消耗1%。"
+    },
+    {
+        "id": 181,
+        "en": "You can eat any dessert you want if you take only three bites.",
+        "zh": "你可以吃任何甜点，但只吃三口。"
+    },
+    {
+        "id": 182,
+        "en": "Don’t treat people as bad as they are. Treat them as good as you are.",
+        "zh": "不要用他们的坏对待别人，要用你的善良去对待别人。"
+    },
+    {
+        "id": 183,
+        "en": "Children totally accept —and crave—family rules. “In our family we have a rule for X” is the only excuse a parent needs for setting a family policy. In fact, “I have a rule for X” is the only excuse you need for your own personal policies.",
+        "zh": "孩子乐于接受——甚至渴望——家庭规则。只要说“在我们家有个X的规定”，父母就够合理地制定了政策。其实“我为X有个规则”也可以作为你的个人原则。"
+    },
+    {
+        "id": 184,
+        "en": "When you confront a stuck bolt or screw: righty tighty, lefty loosey.",
+        "zh": "螺丝拧不动时记住：顺时针拧紧，逆时针拧松。"
+    },
+    {
+        "id": 185,
+        "en": "Bad things can happen fast but almost all good things happen slowly.",
+        "zh": "坏事常常很快发生，好事几乎总是慢慢到来。"
+    },
+    {
+        "id": 186,
+        "en": "We are not a body that carries a soul. We are a soul that is assigned a body not of our choosing, but in our care.",
+        "zh": "我们不是带着灵魂的身体，而是拥有身体的灵魂，身体并非我们选择，却需要我们关照。"
+    },
+    {
+        "id": 187,
+        "en": "If your goal does not have a schedule, it is a dream.",
+        "zh": "如果目标没有时间表，那它只是一个梦。"
+    },
+    {
+        "id": 188,
+        "en": "Be a good ancestor. Do something a future generation will thank you for. A simple thing is to plant a tree.",
+        "zh": "做一个好祖先。为后代感恩你做点事。植棵树就是简单的例子。"
+    },
+    {
+        "id": 189,
+        "en": "People can’t remember more than three points from a speech.",
+        "zh": "一场演讲中，人通常记不住三点以上。"
+    },
+    {
+        "id": 190,
+        "en": "The greatest breakthroughs are missed because they look like really hard work.",
+        "zh": "最大的突破常常被错过，因为它们看起来像是特别辛苦的活。"
+    },
+    {
+        "id": 191,
+        "en": "To be remarkable, read books.",
+        "zh": "想要卓越，就多读书。"
+    },
+    {
+        "id": 192,
+        "en": "Finite games are played to win or lose. Infinite games are played to keep the game going. Seek out infinite games because they yield unlimited rewards.",
+        "zh": "有限的游戏以胜负为目标，无限的游戏为了让游戏持续下去。寻找那些无限的游戏，因为它们带来无限回报。"
+    },
+    {
+        "id": 193,
+        "en": "To succeed, get other people to pay you; to become wealthy, help other people to succeed.",
+        "zh": "想要成功，让别人付钱给你；想要富有，让别人也成功。"
+    },
+    {
+        "id": 194,
+        "en": "Your behavior, not your opinions will change the world.",
+        "zh": "改变世界的不是你的观点，而是你的行为。"
+    },
+    {
+        "id": 195,
+        "en": "A problem that can easily be solved with money is not really a problem because its solution is obvious. Focus on problems with non-obvious solutions.",
+        "zh": "那些能用钱轻松解决的问题并不算是真正的问题，因为答案很明显。把注意力放在那些看不出答案的问题上。"
+    },
+    {
+        "id": 196,
+        "en": "Every person you meet knows an amazing lot about something you know virtually nothing about. It won’t be obvious and your job is to discover what it is.",
+        "zh": "你遇到的每个人都有你几乎一无所知的专长。你的工作就是发现那是什么。"
+    },
+    {
+        "id": 197,
+        "en": "Cultivate an allergy to average.",
+        "zh": "养成对平庸过敏的本能。"
+    },
+    {
+        "id": 198,
+        "en": "To combat an adversary become their friend.",
+        "zh": "想要击败敌人，那就成为他们的朋友。"
+    },
+    {
+        "id": 199,
+        "en": "If you are buying stock, the person selling it thinks it is worth less than you do. If you are selling, they think it is worth more than you do. Each time you are ready to buy or sell stock ask yourself “What do I know that they don’t?”",
+        "zh": "你买股票时，卖方觉得它比你认为的值要低；你卖时，对方觉得它比你认为的值要高。每次买卖时，问问自己“我知道什么是对方不知道的？”"
+    },
+    {
+        "id": 200,
+        "en": "You don’t marry a person you marry a family.",
+        "zh": "你不仅是和一个人结婚，更是与一个家庭结婚。"
+    },
+    {
+        "id": 201,
+        "en": "Be nice to your children because they are going to choose your nursing home.",
+        "zh": "对你的孩子友善点，因为以后是他们帮你选养老院。"
+    },
+    {
+        "id": 202,
+        "en": "About 99% of the time the right time is right now.",
+        "zh": "99%的时候，正确的时机就是现在。"
+    },
+    {
+        "id": 203,
+        "en": "All guns are loaded.",
+        "zh": "所有的枪都要假定是上膛的。"
+    },
+    {
+        "id": 204,
+        "en": "Cultivate 12 people who love you because they are worth more than 12 million people who like you.",
+        "zh": "培养12个真心爱你的人胜过1200万人喜欢你。"
+    },
+    {
+        "id": 205,
+        "en": "Always be quick to give credit and to take blame.",
+        "zh": "总是迅速归功于他人、勇于承担责任。"
+    },
+    {
+        "id": 206,
+        "en": "Be frugal in all things except in your passions. Select a few interests that you gleefully splurge on. In fact, be all-around thrifty so that you can splurge on your passions.",
+        "zh": "对所有事情都要节俭，唯独对你的激情例外。挑几个你愿意花钱的兴趣，并在其他方面省钱来支持它们。"
+    },
+    {
+        "id": 207,
+        "en": "To manage yourself use your head; to manage others use your heart.",
+        "zh": "管理自己要用头脑，管理别人要用心。"
+    },
+    {
+        "id": 208,
+        "en": "Dance with your hips.",
+        "zh": "跳舞时用你的臀部。"
+    },
+    {
+        "id": 209,
+        "en": "Don’t let your email inbox become your to-do list run by others.",
+        "zh": "不要让你的邮箱收件箱变成由别人主导的待办清单。"
+    },
+    {
+        "id": 210,
+        "en": "The best way to untangle a knotty tangle is not to “untie” the knots but to keep pulling the loops apart wider and wider. Just make the mess as big, loose, and open as possible. As you open up the knots, they will unravel themselves. Works on cords, strings, hoses yarns, or electronic cables.",
+        "zh": "解开乱成一团的结的最好方法，不是直接解结，而是让绳圈越来越松、范围变大。把乱团越弄越松，结自然会松掉。适用于绳子、线缆、管子，甚至电子线。"
+    },
+    {
+        "id": 211,
+        "en": "Take one simple thing —almost anything— but take it extremely seriously as if it is the only thing in the world —or maybe the entire world is in it— and by taking it seriously you’ll light up the sky.",
+        "zh": "认真对待一件简单的事情——任何事情都可以——就像它是世间唯一的事，甚至像整个世界都在里面。如此投入，你会点亮天空。"
+    },
+    {
+        "id": 212,
+        "en": "When making something always get a few extras—extra material extra parts, extra space, extra finishes. The extras serve as backups for mistakes reduce stress and fill your inventory for the future. They are the cheapest insurance.",
+        "zh": "制作东西时总要多准备点——多些材料、零件、空间、表面处理。多出来的东西可以做备用，减少紧张，也能为未来建立库存。这是最便宜的保险。"
+    },
+    {
+        "id": 213,
+        "en": "No one is as impressed with your possessions as you are.",
+        "zh": "没有人像你自己那样在意你的财物。"
+    },
+    {
+        "id": 214,
+        "en": "Don’t ever work for someone you don’t want to become.",
+        "zh": "永远不要为一个你不愿成为的人工作。"
+    },
+    {
+        "id": 215,
+        "en": "No secrets. You are much better off delivering unwelcome news to someone yourself directly. A secret is rarely unknown, which means inevitably someone else will share it. Meanwhile, the secret corrodes all who hold it. Resist accepting secrets.",
+        "zh": "不要秘密。令人生厌的消息最好你自己直接告诉对方。秘密很少会永远无人知晓，因此迟早会被别人传播。而且秘密会腐蚀知晓者。拒绝接受秘密。"
+    },
+    {
+        "id": 216,
+        "en": "The expanding universe is overflowing with abundance. It is so full that improvement can often be gained only by subtracting. Keep removing, until you can’t. End with wanting more, not less.",
+        "zh": "扩张的宇宙中充满了丰盈。以致于改善往往只能通过减法获得。不断地减少，直到不能再减。终点是让你意犹未尽，而非嫌弃。"
+    },
+    {
+        "id": 217,
+        "en": "Figure out what time of day you are most productive and protect that time period.",
+        "zh": "找出你一天中最高效的时间段，并守护好它。"
+    },
+    {
+        "id": 218,
+        "en": "Experiences are fun and having influence is rewarding but only mattering makes us happy. Do stuff that matters.",
+        "zh": "经历很有趣，有影响力很有成就感，但只有“重要”本身会让我们快乐。做有意义的事。"
+    },
+    {
+        "id": 219,
+        "en": "Greatness is incompatible with optimizing in the short term. To achieve greatness requires a long view. Raise your time horizon to raise your goal.",
+        "zh": "伟大和短期内的最优化格格不入。想要伟大需要长远目光。把你的时间跨度放长，你的目标自然提升。"
+    },
+    {
+        "id": 220,
+        "en": "Most wonderful things quickly become unwonderful if they are repeated too often. Once-in-a-life is often the optimal interval.",
+        "zh": "大多数美好的事，如果过于频繁地重复，就会变得平淡。人生中只经历一次，往往是最合适的间隔。"
+    },
+    {
+        "id": 221,
+        "en": "When you open paint even a tiny bit, it will always find its way to your clothes no matter how careful you are. Dress accordingly.",
+        "zh": "哪怕只打开一点点油漆，无论你多小心，它总会弄到你的衣服上。请穿合适的衣服。"
+    },
+    {
+        "id": 222,
+        "en": "You have to first follow the rules with diligence in order to break them productively.",
+        "zh": "只有先认真遵守规则，你才能高效地打破规则。"
+    },
+    {
+        "id": 223,
+        "en": "If you stop to listen to a musician or street performer for more than a minute you owe them a dollar.",
+        "zh": "如果你停下来听一位音乐家或街头艺人超过一分钟，你就应该给他们一美元。"
+    },
+    {
+        "id": 224,
+        "en": "Learning probability and statistics is far more useful than learning algebra and calculus.",
+        "zh": "学习概率与统计比学习代数和微积分更有用。"
+    },
+    {
+        "id": 225,
+        "en": "If winning becomes too important in a game change the rules to make it more fun. Changing rules can become the new game.",
+        "zh": "如果在游戏中过于注重胜负，那就改改规则让它变得更有趣。改变规则本身也能成为新的游戏。"
+    },
+    {
+        "id": 226,
+        "en": "The greatest teacher is called “doing.”",
+        "zh": "最好的老师叫做“实践”。"
+    },
+    {
+        "id": 227,
+        "en": "Anything you say before the word “but” does not count.",
+        "zh": "你在说“但是”前面讲的内容都不算数。"
+    },
+    {
+        "id": 228,
+        "en": "Courtesy costs nothing. When you borrow something, return it cleaned. Lower the toilet seat after use. Let the car in front of you merge. Return shopping carts to their designated areas. Let the people in the elevator exit before you enter. These courtesies are free.",
+        "zh": "礼貌是免费的。借了别人的东西要清理好后归还。用完马桶记得放下马桶盖。让前车并道。购物车要推回指定位置。进电梯前先让里面的人出来。这些好习惯都是免费的。"
+    },
+    {
+        "id": 229,
+        "en": "Whenever there is an argument between two sides find the third side.",
+        "zh": "凡是有两方争论时，试着去发现第三个角度。"
+    },
+    {
+        "id": 230,
+        "en": "The consistency of your endeavors (exercise, companionship, work) is more important than the quantity. Nothing beats small things done every day which is way more important than what you do occasionally.",
+        "zh": "你在锻炼、陪伴、工作上的坚持，比数量更重要。每天做一点，比偶尔做很多更有价值。"
+    },
+    {
+        "id": 231,
+        "en": "When you lead your real job is to create more leaders not more followers.",
+        "zh": "作为领导者，你的真正职责是培养更多的领导者，而不是更多的跟随者。"
+    },
+    {
+        "id": 232,
+        "en": "It is the duty of a teacher to get everything out of a student and the duty of a student to get everything out of a teacher.",
+        "zh": "老师的职责是激发学生的全部潜力，学生的职责是向老师汲取全部知识。"
+    },
+    {
+        "id": 233,
+        "en": "Efficiency is highly overrated; goofing off is highly underrated. Regularly scheduled sabbaths, sabbaticals vacations, breaks, aimless walks and time off are essential for top performance of any kind. The best work ethic requires a good rest ethic.",
+        "zh": "效率常常被高估，摸鱼却被低估。定期休息日、假期、散步和空闲时间对最佳表现至关重要。最好的工作态度需要配合良好的休息态度。"
+    },
+    {
+        "id": 234,
+        "en": "Speak confidently as if you are right but listen carefully as if you are wrong.",
+        "zh": "说话时自信如对，倾听时虚心如错。"
+    },
+    {
+        "id": 235,
+        "en": "Productivity is often a distraction. Don’t aim for better ways to get through your tasks as quickly as possible. Instead aim for better tasks that you never want to stop doing.",
+        "zh": "提高效率常常成了干扰。不要只想着如何更快完成任务，而应该寻找那些你永远不愿停止的好任务。"
+    },
+    {
+        "id": 236,
+        "en": "Your enjoyment of travel is inversely proportional to the size of your luggage. This is 100% true of backpacking. It is liberating to realize how little you really need.",
+        "zh": "你旅行的快乐和你行李的多寡成反比。对于背包旅行更是如此。你会发现其实需要的东西很少，这很令人自由。"
+    },
+    {
+        "id": 237,
+        "en": "Ask funders for money and they’ll give you advice; but ask for advice and they’ll give you money.",
+        "zh": "向资助人要求钱，他们会给你建议；但如果你请教建议，他们反而会给你钱。"
+    },
+    {
+        "id": 238,
+        "en": "The biggest lie we tell ourselves is “I don’t need to write this down because I will remember it.”",
+        "zh": "我们对自己说的最大谎言就是“这个不用记下来，我肯定记得住”。"
+    },
+    {
+        "id": 239,
+        "en": "Criticize in private, praise in public.",
+        "zh": "批评要私下说，表扬要公开讲。"
+    },
+    {
+        "id": 240,
+        "en": "Don’t keep making the same mistakes; try to make new mistakes.",
+        "zh": "不要一再犯同样的错误。去尝试新的错误吧。"
+    },
+    {
+        "id": 241,
+        "en": "Your growth as a mature being is measured by the number of uncomfortable conversations you are willing to have.",
+        "zh": "你的成熟程度，取决于你愿意进行多少次不舒服的对话。"
+    },
+    {
+        "id": 242,
+        "en": "Handy measure: The distance between the fingertips of your outstretched arms at shoulder level is roughly your height.",
+        "zh": "实用测量法：你双臂平举时指尖之间的距离大致等于你的身高。"
+    },
+    {
+        "id": 243,
+        "en": "Don’t buy anything late at night. There is nothing you need to buy that cannot wait till tomorrow morning.",
+        "zh": "不要在深夜买东西。没有什么非得等不到明天早上再买。"
+    },
+    {
+        "id": 244,
+        "en": "When you have good news and bad news, give the bad news first because we remember how things end more than how they begin. So elevate the ending with good news.",
+        "zh": "有好消息和坏消息时，先讲坏消息，因为我们更容易记住事情的结尾而不是开头。用好消息美化结局。"
+    },
+    {
+        "id": 245,
+        "en": "Immediately pay what you owe to vendors, workers, contractors. If you do, they will go out of their way to work with you first next time.",
+        "zh": "欠供应商、工人、承包商的钱，立刻结清。这样下次他们会优先和你合作。"
+    },
+    {
+        "id": 246,
+        "en": "The four most powerful words in any negotiation should be uttered by you: “Can you do better?”",
+        "zh": "在任何谈判中最有力的四个词：你还能再好点吗？"
+    },
+    {
+        "id": 247,
+        "en": "Three things you need: the ability to not give up something till it works the ability to give up something that does not work and the trust in other people to help you distinguish between the two.",
+        "zh": "你需要三样东西：做不成不放弃的能力，做不对会放弃的能力，以及相信别人能够帮你分辨这两者的信任。"
+    },
+    {
+        "id": 248,
+        "en": "You can find no better medicine for your family than regular meals together without screens.",
+        "zh": "家人一起吃饭、不看屏幕，是最好的家庭良药。"
+    },
+    {
+        "id": 249,
+        "en": "There is no such thing as being “on time.” Either you are late or you are early. Your choice.",
+        "zh": "没有所谓的“准时”——要么迟到，要么早到。你自己选。"
+    },
+    {
+        "id": 250,
+        "en": "Making art is not selfish; it’s for the rest of us. If you don’t do your thing you are cheating us.",
+        "zh": "创作艺术不是自私，它是为了我们所有人。如果你不去做自己的事，就是在亏欠大家。"
+    },
+    {
+        "id": 251,
+        "en": "In a genuine survival situation, you can go 3 weeks without food and 3 days without water but only 3 hours without warmth or shade. So don’t worry about food. Focus on temperature and water.",
+        "zh": "真正的生存环境下，人可以三周不吃饭，三天不喝水，但只可三小时没有温度或荫凉。所以别担心食物，把重点放在温度和水上。"
+    },
+    {
+        "id": 252,
+        "en": "When you are in the wrong be quick to chastise yourself more severely than the aggrieved might. Paradoxically, this can soften their ire.",
+        "zh": "如果你错了，要比受委屈那一方更严厉地自责。反而会让对方的怒气缓和下来。"
+    },
+    {
+        "id": 253,
+        "en": "Learn how to be alone without being lonely. Solitude is essential for creativity.",
+        "zh": "学会独处但不孤独。独处对于创造力很重要。"
+    },
+    {
+        "id": 254,
+        "en": "When you feel like quitting just do five more: 5 more minutes, 5 more pages 5 more steps. Then repeat. Sometimes you can break through and keep going but even if you can’t, you ended five ahead. Tell yourself that you will quit tomorrow but not today.",
+        "zh": "当你想放弃时，再多做五个：多五分钟，多五页，多走五步。然后再来一次。有时你能冲破极限，但即使不能，你也比原来多了五个。告诉自己今天不放弃，明天再说。"
+    },
+    {
+        "id": 255,
+        "en": "Never ask someone if they are pregnant. Let them tell you.",
+        "zh": "永远不要问别人是否怀孕，等对方自己告诉你。"
+    },
+    {
+        "id": 256,
+        "en": "What you do on your bad days matters more than what you do on your good days.",
+        "zh": "你在糟糕日子的表现比在好日子更重要。"
+    },
+    {
+        "id": 257,
+        "en": "Ask anyone you admire: Their lucky breaks happened on a detour from their main goal. So embrace detours. Life is not a straight line for anyone.",
+        "zh": "问问你崇拜的人吧：他们的好运大多是从目标的岔路上发生的。拥抱岔路，人生并不是直线。"
+    },
+    {
+        "id": 258,
+        "en": "To be rich you don’t need to make more money; you chiefly need to better manage the money already flowing through your hands.",
+        "zh": "想要富有，不是赚更多的钱，而是管理好你现有的钱。"
+    },
+    {
+        "id": 259,
+        "en": "When speaking to an audience pause frequently. Pause before you say something in a new way pause after you have said something you believe is important and pause as a relief to let listeners absorb details.",
+        "zh": "演讲时要经常停顿。换个说法前停顿，讲完重要观点后停顿，让听众有时间消化。"
+    },
+    {
+        "id": 260,
+        "en": "The best way to get a correct answer on the internet is to post an obviously wrong answer and wait for someone to correct you.",
+        "zh": "在网上获得正确答案的最佳方式，就是先发一个明显错误的答案，然后等别人来纠正你。"
+    },
+    {
+        "id": 261,
+        "en": "You’ll get 10 times better results by elevating good behavior rather than punishing bad behavior especially in children and animals.",
+        "zh": "表扬好行为比惩罚坏行为有效十倍，尤其对孩子和动物。"
+    },
+    {
+        "id": 262,
+        "en": "Spend as much time crafting the subject line of an email as the message itself because the subject line is often the only thing people read.",
+        "zh": "写电子邮件时，要花和正文一样多的精力写标题，因为标题常常是别人唯一会看的内容。"
+    },
+    {
+        "id": 263,
+        "en": "When you’re checking references for a job applicant, their employer may be prohibited from saying anything negative so leave or send a message that says “Get back to me if you highly recommend this applicant as super great.” If they don’t reply, take that as a negative.",
+        "zh": "核查求职者推荐人时，有些雇主不能给出负面评价，所以你可以留言：“如果你特别推荐此人，请联系我。”如果对方没回复，那就当作否定看待。"
+    },
+    {
+        "id": 264,
+        "en": "Don’t wait for the storm to pass; dance in the rain.",
+        "zh": "别等风暴过去，直接在雨中起舞吧。"
+    },
+    {
+        "id": 265,
+        "en": "Make stuff that is good for people to have.",
+        "zh": "做一些对别人有益的东西。"
+    },
+    {
+        "id": 266,
+        "en": "Keep all your things visible in a hotel room, not in drawers and all gathered into one spot. That way you’ll never leave anything behind. If you need to have something like a charger off to the side place a couple of other large items next to it, because you are less likely to leave three items behind than just one.",
+        "zh": "在酒店房间里，把所有东西放在明处，集中放在一起，不要藏抽屉，这样不会落下东西。如果某个东西不得不单独放在一边，比如充电器，那就在旁边多放两件大东西，因为你不太可能同时忘记三件东西。"
+    },
+    {
+        "id": 267,
+        "en": "Denying or deflecting a compliment is rude. Accept it with thanks even if you believe it is not deserved.",
+        "zh": "否认或回避表扬其实很不礼貌。即使你觉得自己不配，也要感谢并接受。"
+    },
+    {
+        "id": 268,
+        "en": "Always read the plaque next to the monument.",
+        "zh": "每次参观纪念建筑都记得读一下旁边的铭牌。"
+    },
+    {
+        "id": 269,
+        "en": "When you have some success, the feeling of being an imposter can be real. Who am I fooling? But when you create things that only you with your unique talents and experience can do then you are absolutely not an imposter. You are the ordained. It is your destiny to work on things that only you can do.",
+        "zh": "取得一点成功时，你可能觉得自己是冒牌货：我骗得了谁？但当你做的事情只有你自己独有的才能和经历才能完成时，你绝不是冒牌货。这是你的使命。你注定要做那些只有你能做的事。"
+    },
+    {
+        "id": 270,
+        "en": "To keep young kids behaving well on a car road trip, have a bag of their favorite unwrapped candy and throw a piece out the window each time they misbehave.",
+        "zh": "长途开车带孩子时，要一袋他们最爱的糖果。每次淘气就扔一颗糖果出窗外。"
+    },
+    {
+        "id": 271,
+        "en": "When you don’t know how much to pay someone for a particular task ask them, “What would be fair?” and their answer usually is.",
+        "zh": "不知道该为某项工作付多少钱时，不妨问对方：“你觉得公平的价格是多少？”对方给出的答案往往就很合理。"
+    },
+    {
+        "id": 272,
+        "en": "The general strategy for real estate is to buy the worst property on the best street.",
+        "zh": "买房时的通用法则是：选最好的街，买最差的房。"
+    },
+    {
+        "id": 273,
+        "en": "You cannot get smart people to work extremely hard just for money.",
+        "zh": "仅仅用钱无法让聪明人拼命工作。"
+    },
+    {
+        "id": 274,
+        "en": "Half the skill of being educated is learning what you can ignore.",
+        "zh": "受教育的一半能力是学会什么可以忽略。"
+    },
+    {
+        "id": 275,
+        "en": "If you’re doing something that you are hiding from others it’s probably not good for you.",
+        "zh": "如果你在做一件事，还不敢让别人知道，那它很可能对你没好处。"
+    },
+    {
+        "id": 276,
+        "en": "When you need to cut something extremely exact don’t try to do it with one cut. Instead, cut it a bit bigger and then keep trimming it bit by bit until perfect. Professional makers call this “creeping up” to the precise measurement.",
+        "zh": "需要极其精确地剪裁时，不要一次到位。先剪大一点，然后一点点修整，直到刚好。专业人士称这种方法为“逐步逼近精度”。"
+    },
+    {
+        "id": 277,
+        "en": "Make others feel they are important; it will make their day and it will make your day.",
+        "zh": "让别人觉得自己很重要，这会让他开心，也会让你开心。"
+    },
+    {
+        "id": 278,
+        "en": "Constantly search for overlapping areas of agreement and dwell there. Disagreements will appear to be edge cases.",
+        "zh": "要不断寻找和别人的共识，并专注于此。分歧最终只是边角问题。"
+    },
+    {
+        "id": 279,
+        "en": "90% of everything is crap. If you think you don’t like opera, romance novels, TikTok, country music, vegan food NFTs, keep trying to see if you can find the 10% that is not crap.",
+        "zh": "90%的东西都是糟糕的。如果你觉得自己喜欢不上歌剧、言情小说、短视频、乡村音乐、素食、NFTs……多努力发掘那10%的好东西。"
+    },
+    {
+        "id": 280,
+        "en": "You will be judged on how well you treat those who can do nothing for you.",
+        "zh": "别人会根据你如何善待对你毫无帮助的人来评判你。"
+    },
+    {
+        "id": 281,
+        "en": "We tend to overestimate what we can do in a day and underestimate what we can achieve in a decade. Miraculous things can be accomplished if you give it 10 years. A long game will compound small gains that will be able to overcome even big mistakes.",
+        "zh": "我们总是高估自己一天能做多少事，却低估十年能有多大成就。假如你肯用十年，许多奇迹都能发生。长期积累的小进步甚至能抵消大错误。"
+    },
+    {
+        "id": 282,
+        "en": "Let someone know you remembered their name and they won’t ever forget yours. To help remember their name repeat it on first hearing.",
+        "zh": "让别人知道你记得他们的名字，他们也不会忘记你的。记名字时，第一次听见就重复一遍会有帮助。"
+    },
+    {
+        "id": 283,
+        "en": "Your best job will be one that you were unqualified for because it stretches you. In fact, only apply to jobs you are unqualified for.",
+        "zh": "最适合你的工作往往是那些你并不胜任的，因为会让你成长。事实上，只申请那些你还不胜任的职位吧。"
+    },
+    {
+        "id": 284,
+        "en": "You can be whatever you want to be so be the person who ends meetings early.",
+        "zh": "你可以成为任何你想成为的人，所以当那个提前结束会议的人吧。"
+    },
+    {
+        "id": 285,
+        "en": "Buy used books. They have the same words as the new ones. Also, libraries.",
+        "zh": "买二手书吧，内容和新的一样。还有图书馆别忘了。"
+    },
+    {
+        "id": 286,
+        "en": "A wise man said: Before you speak, let your words pass through three gates. At the first gate, ask yourself, “Is it true?” At the second gate ask, “Is it necessary?” At the third gate ask, “Is it kind?”",
+        "zh": "智者说：开口前让你的话经过三个门槛。第一问：是真的吗？第二问：有必要吗？第三问：善意吗？"
+    },
+    {
+        "id": 287,
+        "en": "The only productive way to answer “What should I do now?” is to first tackle the question of “Who should I become?”",
+        "zh": "当你问“我现在该做什么”时，最有成效的方式是先思考“我该成为什么样的人？”"
+    },
+    {
+        "id": 288,
+        "en": "When you board an airplane, arrive at your room in a hotel, or start a new job, locate the emergency exits. It only takes a minute.",
+        "zh": "上飞机、进酒店房间、入新公司，都要先找紧急出口。只需一分钟。"
+    },
+    {
+        "id": 289,
+        "en": "The best investing advice: Average returns, maintained for above-average periods of time will yield extraordinary results. Buy and hold.",
+        "zh": "最好的投资建议：只要把普通回报坚持极长时间，就会变得很惊人。买入并持有。"
+    },
+    {
+        "id": 290,
+        "en": "Take the stairs.",
+        "zh": "走楼梯吧。"
+    },
+    {
+        "id": 291,
+        "en": "What you actually pay for something can be twice the listed price because the energy, time, and money needed to set it up, learn, maintain, repair it and then dispose of it when done all have their own cost. Not all prices appear on labels.",
+        "zh": "一件东西你实际付出的成本可能是标签价的两倍，因为你还要花精力、时间和金钱去安装、学习、维护、维修甚至最终处理它。不是所有价格都标在标签上。"
+    },
+    {
+        "id": 292,
+        "en": "If a young student is struggling first thing: Check their eyesight.",
+        "zh": "如果小学生学习吃力，首先要检查视力。"
+    },
+    {
+        "id": 293,
+        "en": "It’s thrilling to be extremely polite to rude strangers.",
+        "zh": "对无礼的陌生人极有礼貌，会让你有奇妙的快感。"
+    },
+    {
+        "id": 294,
+        "en": "Most articles and stories are improved significantly if you delete the first page of the manuscript. Start with the action.",
+        "zh": "大多数文章和故事删去手稿的第一页后会变得更好。直接从行动开始吧。"
+    },
+    {
+        "id": 295,
+        "en": "Getting cheated occasionally is the small price for trusting the best of everyone because when you trust the best in others they generally treat you best.",
+        "zh": "偶尔被骗，是相信人性美好的小小代价。你相信别人的善，他们通常也会善待你。"
+    },
+    {
+        "id": 296,
+        "en": "It’s possible that a not-so-smart person who can communicate well can do much better than a super-smart person who can’t communicate well. That is good news because it is much easier to improve your communication skills than your intelligence.",
+        "zh": "一个口才好但不太聪明的人，可能比口才差的天才强得多。这是个好消息，因为提高沟通能力比提高智力容易多了。"
+    },
+    {
+        "id": 297,
+        "en": "Take note if you find yourself wondering “Where is my good knife?” or “Where is my good pen?” That means you have bad ones. Get rid of those.",
+        "zh": "如果你总是问“我的好刀在哪里？”“我的好笔在哪？”那说明你有很多差的。把那些不好的都扔了吧。"
+    },
+    {
+        "id": 298,
+        "en": "For the best results with your children spend only half the money you think you should but double the time with them.",
+        "zh": "想让孩子收获最多，花一半的钱但花两倍的时间陪伴他们。"
+    },
+    {
+        "id": 299,
+        "en": "Avoid wearing a hat that has more character than you do.",
+        "zh": "别戴比你本人更有个性的帽子。"
+    },
+    {
+        "id": 300,
+        "en": "Looking ahead, focus on direction rather than destinations. Maintain the right direction and you’ll arrive at where you want to go.",
+        "zh": "展望未来，关注方向而非终点。方向对了，总会走到想去的地方。"
+    },
+    {
+        "id": 301,
+        "en": "Art is whatever you can get away with.",
+        "zh": "所谓艺术，就是你能做到的任性。"
+    },
+    {
+        "id": 302,
+        "en": "Purchase the most recent tourist guidebook to your hometown or region. You’ll learn a lot by playing the tourist once a year.",
+        "zh": "买一本最新的本地旅游指南，每年当一次游客，你会学到很多新东西。"
+    },
+    {
+        "id": 303,
+        "en": "To become a hero, thank a teacher who made a difference in your life.",
+        "zh": "想成为英雄，先去感谢改变过你人生的老师。"
+    },
+    {
+        "id": 304,
+        "en": "When buying a garden hose, an extension cord, or a ladder, get one substantially longer than you think you need. It’ll be the right size.",
+        "zh": "买园艺水管、加长电线或梯子时，要买比你想象长得多的。买长点的，才正好。"
+    },
+    {
+        "id": 305,
+        "en": "When you are stuck explain your problem to others. Often simply laying out a problem will present a solution. Make “explaining the problem” part of your troubleshooting process.",
+        "zh": "遇到难题时，不妨跟其他人讲讲。往往光是把问题讲出来，解决办法就会浮现。将“讲清问题”作为排查流程的一部分。"
+    },
+    {
+        "id": 306,
+        "en": "Don’t wait in line to eat something famous. It is rarely worth the wait.",
+        "zh": "不要排队去吃网红美食，等待通常不值得。"
+    },
+    {
+        "id": 307,
+        "en": "When introduced to someone make eye contact and count to four or say to yourself, “I see you.” You’ll both remember each other.",
+        "zh": "结识新朋友时，盯着对方的眼睛默数四下，或在心里说“我看到你了”。你们彼此都会记住对方。"
+    },
+    {
+        "id": 308,
+        "en": "Your group can achieve great things way beyond your means simply by showing people that they are appreciated.",
+        "zh": "只需让团队里的每个人感受到被欣赏，你们就能取得超越自身条件的成就。"
+    },
+    {
+        "id": 309,
+        "en": "Be a pro. Back up your backup. Have at least one physical backup and one backup in the cloud. Have more than one of each. How much would you pay to retrieve all your data, photos, notes if you lost them? Backups are cheap compared to regrets.",
+        "zh": "做专业的人，备份你的备份。至少要有一份实体备份和一份云端备份，甚至各自多一份。想想失去全部数据、照片、笔记要付出什么代价。与后悔相比，备份便宜太多了。"
+    },
+    {
+        "id": 310,
+        "en": "Prescription for popular success: do something strange. Make a habit of your weird.",
+        "zh": "成为受欢迎的秘诀：做点怪异的事，把你的“怪”变成习惯。"
+    },
+    {
+        "id": 311,
+        "en": "Your time and space are limited. Remove, give away, throw out anything that no longer gives you joy in order to make room for those that do.",
+        "zh": "你的时间和空间有限，把那些不再让你快乐的东西清理掉，让位给真正珍惜的事物。"
+    },
+    {
+        "id": 312,
+        "en": "To signal an emergency use the rule of 3: 3 shouts, 3 horn blasts, or 3 whistles.",
+        "zh": "遇到紧急情况可以用“三次法则”：比如喊三声、按三下喇叭、吹三下哨子。"
+    },
+    {
+        "id": 313,
+        "en": "Don’t compare your inside to someone else’s outside.",
+        "zh": "别拿自己的内心和别人的外表比较。"
+    },
+    {
+        "id": 314,
+        "en": "Explore or optimize? Do you optimize what you know will sell or explore with something new? Do you order a restaurant dish you are sure is great (optimize) or do you try something new? Do you keep dating new folks (explore) or try to commit to someone you met? The ideal balance for exploring new things vs. optimizing those already found is ⅓. Spend ⅓ of your time on exploring and ⅔ on optimizing and deepening. As you mature it is harder to devote time to exploring because it seems unproductive but aim for ⅓.",
+        "zh": "探索还是优化？选安全的老路还是尝试新鲜的路径？点餐时要不要重复最喜欢的口味，还是尝试新品？不断认识新朋友还是跟现在的人更深入？理想状态是探索新鲜和优化已知的比例为1:2，花三分之一时间探索，三分之二时间优化。越成熟越难抽时间去探索，因为它看似低效，但仍要保证三分之一。"
+    },
+    {
+        "id": 315,
+        "en": "Occasionally your first idea is best, but usually it’s the fifth idea. You need to get all the obvious ideas out of the way. Try to surprise yourself.",
+        "zh": "偶尔你的第一个想法是最好的，但大多数时候最好的主意是第五个。要先把那些显而易见的想法都写出来。努力让自己惊喜。"
+    },
+    {
+        "id": 316,
+        "en": "Don’t bother fighting the old just build the new.",
+        "zh": "与其纠结于推翻旧的，不如直接去创造新的。"
+    },
+    {
+        "id": 317,
+        "en": "Actual great opportunities will not have “Great Opportunities” in the subject line.",
+        "zh": "真正的好机会，从来不会用“好机会”来做标题。"
+    },
+    {
+        "id": 318,
+        "en": "When someone tells you about the peak year of human history the period of time when things were good before things went downhill it will always be the year when they were 10 years old— which is the peak of any human’s existence. Factor that into what they say.",
+        "zh": "当有人告诉你什么年代最好、何时走下坡路，这个“最美好的一年”总是他们10岁那年——那是任何人生命的巅峰。分析他们的观点时请记住这一点。"
+    },
+    {
+        "id": 319,
+        "en": "To rapidly reveal the true character of a person you just met observe them stuck on an abysmally slow internet connection.",
+        "zh": "想快速看清一个新认识的人？观察他遇到极慢网速时的反应吧。"
+    },
+    {
+        "id": 320,
+        "en": "In preparing for a long hike old shoes of any type are superior to brand-new shoes of any type. Don’t use a long hike to break in shoes.",
+        "zh": "准备长途徒步时，旧鞋比任何新鞋都好。别用长途拉练来磨合新鞋。"
+    },
+    {
+        "id": 321,
+        "en": "When negotiating don’t aim for a bigger piece of the pie; aim to create a bigger pie.",
+        "zh": "谈判时，不要只想着分得更大的一块蛋糕，而要努力把蛋糕做大。"
+    },
+    {
+        "id": 322,
+        "en": "You are as big as the things that make you angry.",
+        "zh": "你愤怒的事情有多大，你就有多大。"
+    },
+    {
+        "id": 323,
+        "en": "You see only 2% of another person and they see only 2% of you. Attune yourself to the hidden 98%.",
+        "zh": "你只看到了别人2%的样子，别人也只看到你的2%。要学会关注那隐藏的98%。"
+    },
+    {
+        "id": 324,
+        "en": "Our descendants will achieve things that will amaze us yet a portion of what they will create could have been made with today’s materials and tools if we had had the imagination. Think bigger.",
+        "zh": "我们的后代会创造很多令我们惊叹的事物，而其中有些原本用我们现有的工具和材料就能做到——只要想象力足够。格局要大一点。"
+    },
+    {
+        "id": 325,
+        "en": "Do more of what looks like work to others but is play for you.",
+        "zh": "多做那些别人觉得是工作，你却视为玩耍的事。"
+    },
+    {
+        "id": 326,
+        "en": "If you want something to get done ask a busy person to do it.",
+        "zh": "要想把事情做好，就请一个最忙的人做。"
+    },
+    {
+        "id": 327,
+        "en": "Remember that repair tasks take 3 times longer than expected even when you expect them to take 3 times longer.",
+        "zh": "修东西总比你想的要慢三倍——即使你本来就预计会慢三倍。"
+    },
+    {
+        "id": 328,
+        "en": "Copying others is a good way to start. Copying yourself is a disappointing way to end.",
+        "zh": "模仿别人是个好开始，但原地踏步、复制自己，注定是失望的结局。"
+    },
+    {
+        "id": 329,
+        "en": "If you repeated what you did today 365 more times will you be where you want to be next year?",
+        "zh": "如果你把今天做的事连续做365天，明年你会到达理想的状态吗？"
+    },
+    {
+        "id": 330,
+        "en": "The best time to negotiate your salary for a new job is the moment after they say they want you and not before. Then it becomes a game of chicken for each side to name an amount first but it is to your advantage to get them to give a number before you do.",
+        "zh": "新工作谈薪水的最佳时机，是对方表示已经要你之后，而不是之前。接下来双方都不愿先报价，你要尽量让对方先开口。"
+    },
+    {
+        "id": 331,
+        "en": "Pay attention to what you pay attention to.",
+        "zh": "关注你所关注的事。"
+    },
+    {
+        "id": 332,
+        "en": "For maximum results focus on your biggest opportunities not your biggest problems.",
+        "zh": "想获得最大收获，就专注于你最大的机会，而不是你最大的问题。"
+    },
+    {
+        "id": 333,
+        "en": "Every breakthrough is at first laughable and ridiculous. In fact, if it did not start out laughable and ridiculous it is not a breakthrough.",
+        "zh": "每个突破一开始都让人觉得可笑和荒谬。如果一开始不荒谬，那就不是突破。"
+    },
+    {
+        "id": 334,
+        "en": "Reading to your children regularly is the best school they will ever get.",
+        "zh": "经常跟孩子一起读书，这就是他们能得到的最好的学校。"
+    },
+    {
+        "id": 335,
+        "en": "If you don’t smoke before the age of 25 you are unlikely to ever start; if you do smoke before 25 you are unlikely to ever quit.",
+        "zh": "25岁前不吸烟的人，很难再开始抽烟；而25岁前开始抽烟的人，很难戒烟。"
+    },
+    {
+        "id": 336,
+        "en": "It doesn’t matter how many people don’t appreciate you or your work. The only thing that counts is how many do.",
+        "zh": "有多少人不欣赏你或你的作品都不重要。重要的是有多少人喜欢。"
+    },
+    {
+        "id": 337,
+        "en": "It is far safer after a car accident to remain in the car rather than standing near it on the road where the accident increases the chances of another accident.",
+        "zh": "车祸后，待在车内比下车站在路边更安全，因为路边更容易发生二次事故。"
+    },
+    {
+        "id": 338,
+        "en": "When you are looking for a job, remember that somewhere an employer is desperately hunting for someone like you especially if you are unconventional. Your real job is to make that match happen and it is worth whatever time it takes.",
+        "zh": "找工作时要记住，总有雇主在拼命寻找像你这样的人，尤其是你不走寻常路的时候。你的任务是让彼此匹配，这值得花上任何时间。"
+    },
+    {
+        "id": 339,
+        "en": "Rather than steering your life to avoid the unexpected aim directly for it.",
+        "zh": "与其避开意外，不如直接奔向它。"
+    },
+    {
+        "id": 340,
+        "en": "Don’t grocery shop while hungry.",
+        "zh": "饿的时候别去超市买菜。"
+    },
+    {
+        "id": 341,
+        "en": "If your opinions on one subject can be predicted from your opinions on another you may be in the grip of an ideology. When you truly think for yourself your conclusions will not be predictable.",
+        "zh": "如果人们能根据你在一个问题上的观点预测你在另一个问题的判断，你很可能被某种意识形态绑架。真正独立思考的人，结论是不可预测的。"
+    },
+    {
+        "id": 342,
+        "en": "You can really change someone’s life for the better simply by offering words of encouragement.",
+        "zh": "一句鼓励的话就能让别人的生活变得更好。"
+    },
+    {
+        "id": 343,
+        "en": "When you are presented with a task that could be completed in 2 minutes or less do it immediately.",
+        "zh": "遇到2分钟内就能完成的事，马上去做。"
+    },
+    {
+        "id": 344,
+        "en": "The stronger your beliefs, the stronger your reasons to question them regularly. Don’t simply believe everything you think you believe.",
+        "zh": "越是坚定的信念，越要定期质疑。别盲信自己信的东西。"
+    },
+    {
+        "id": 345,
+        "en": "When a customer of yours complains always apologize first and ask “What can we do to resolve this?” even if it is not your fault. Acting as if the customer is right is a small tax to pay to grow a business.",
+        "zh": "客户抱怨时，无论是不是你的错，先道歉再问“我们可以怎么帮您解决？”把客户当作有理，这点小代价能换来生意增长。"
+    },
+    {
+        "id": 346,
+        "en": "If you loan someone $20 and you never see them again because they are avoiding paying you back that makes it worth $20.",
+        "zh": "如果你借了别人20美元他因此消失不见，就当花20美元看清了这个人。"
+    },
+    {
+        "id": 347,
+        "en": "A superpower worth cultivating is learning from people you don’t like. It is called “humility.” This is the courage to let dumb, stupid, hateful, crazy, mean people teach you something because despite their character flaws they each know something you don’t.",
+        "zh": "值得培养的一种超能力，是从你不喜欢的人身上学习。这叫“谦卑”。让你不喜欢的人教你东西，很有勇气，因为即使他们有缺点，他们也知道你不知道的事。"
+    },
+    {
+        "id": 348,
+        "en": "Don’t purchase extra insurance if you are renting a car with a credit card.",
+        "zh": "如果你用信用卡租车，别再额外买保险了。"
+    },
+    {
+        "id": 349,
+        "en": "For every good thing you love ask yourself what your proper dose is.",
+        "zh": "对于你喜欢的每一件好事，试着问自己：合适的剂量是多少？"
+    },
+    {
+        "id": 350,
+        "en": "Hikers’ rule: Don’t step on what you can step over; don’t step over what you can walk around.",
+        "zh": "徒步者法则：能跨过的别踩，能绕过的别跨。"
+    },
+    {
+        "id": 351,
+        "en": "The trick to making wise decisions is to evaluate your choices as if you were looking back 25 years from today. What would your future self think?",
+        "zh": "做出明智决策的诀窍，是像25年后的自己回首今天一样评估你的选择。你的未来自己会如何看待？"
+    },
+    {
+        "id": 352,
+        "en": "To be interesting just tell your own story with uncommon honesty.",
+        "zh": "要变得有趣，只需用非常真诚的方式讲述你自己的故事。"
+    },
+    {
+        "id": 353,
+        "en": "When speaking to an audience it’s better to fix your gaze on a few people than to “spray” your gaze across the room. Your eyes telegraph to others whether you really believe what you are saying.",
+        "zh": "面对听众演讲时，与其把目光“扫射”全场，不如专注地看着几个人。你的眼神会告诉他人你是否真的相信自己所说的话。"
+    },
+    {
+        "id": 354,
+        "en": "The main reason to produce something every day is that you must throw away a lot of good work to reach the great stuff. To let it all go easily you need to be convinced that there is “more where that came from.” You get that in steady production.",
+        "zh": "每天产出作品的主要原因，是你需要舍弃许多不错的东西，才能达到伟大的境界。要轻松地放下，必须坚信“源源不断”。这种信念，来自持续不断的创作。"
+    },
+    {
+        "id": 355,
+        "en": "The real test of your character is not how you deal with adversity— although that will teach you much. The real test is how you deal with power. The only cure for power is humility and the admission that your power comes from luck. The small person believes they are superior; the superior person knows they are lucky.",
+        "zh": "真正考验品格的，不是你如何面对逆境——虽然逆境会教会你很多。真正的考验在于你如何对待权力。权力唯一的解药是谦卑，并承认权力来自运气。狭隘的人自以为优越，卓越的人知道自己只是幸运。"
+    },
+    {
+        "id": 356,
+        "en": "You will thrive more —and so will others— when you promote what you love rather than bash what you hate. Life is short; focus on the good stuff.",
+        "zh": "多宣传自己喜欢的事物，而不是批判你讨厌的，这样你和别人都会更好地成长。人生短暂，把注意力放在美好事物上。"
+    },
+    {
+        "id": 357,
+        "en": "When sharing, one person divides the other chooses.",
+        "zh": "分享时，一人分配，另一人选择。"
+    },
+    {
+        "id": 358,
+        "en": "It is easy to get trapped by your own success. Say no to tasks you probably won’t fail at and say yes to what you could fail at.",
+        "zh": "很容易被自己的成功困住。对那些你不会失败的任务说“不”，对那些有可能失败的说“是”。"
+    },
+    {
+        "id": 359,
+        "en": "Unhappiness comes from wanting what others have. Happiness comes from wanting what you already have.",
+        "zh": "痛苦来自渴望他人拥有的东西，幸福则来自珍惜自己已有的。"
+    },
+    {
+        "id": 360,
+        "en": "When working with electricity volts hurt, but amps kill.",
+        "zh": "在处理电时，电压会让你受伤，电流能致命。"
+    },
+    {
+        "id": 361,
+        "en": "To get your message across follow this formula used by ad writers everywhere: simplify, simplify, simplify, then exaggerate.",
+        "zh": "想表达清楚信息，请遵循广告写手通用的公式：简化，简化，再简化，然后夸张。"
+    },
+    {
+        "id": 362,
+        "en": "Pay attention to who you are around when you feel your best. Be with them more often.",
+        "zh": "注意你在状态最好时身边的人，多和他们在一起。"
+    },
+    {
+        "id": 363,
+        "en": "Assume no one remembers names. As a courtesy reintroduce yourself by name even to those you have previously met: “Hi, I’m Kevin.”",
+        "zh": "假设没人会记住名字。即使是已见过的人，也要礼貌地再次介绍自己：“你好，我是Kevin。”"
+    },
+    {
+        "id": 364,
+        "en": "What you do instead of work might become your real work.",
+        "zh": "你工作之外做的事情，也许会变成你真正的工作。"
+    },
+    {
+        "id": 365,
+        "en": "The very best thing you can do for your kids is to love your spouse.",
+        "zh": "你能为孩子做的最好的事，就是爱你的配偶。"
+    },
+    {
+        "id": 366,
+        "en": "Your golden ticket is being able to see things from other people’s point of view. This shift enables heartfelt empathy. It also allows you to persuade others and it is the key to great design. Mastering the view through the eyes of others will unlock so many doors.",
+        "zh": "你的一张王牌，是能从他人的角度看待问题。这种转变带来真正的共情，也能帮助你说服他人，是优秀设计的关键。学会从别人的视角看世界，将为你开启无数大门。"
+    },
+    {
+        "id": 367,
+        "en": "If you think that something “goes without saying,” it is usually best for everyone if you just go ahead and say it.",
+        "zh": "如果你觉得某事“无需多言”，实际上最好还是直接说出来。"
+    },
+    {
+        "id": 368,
+        "en": "To meditate, sit and pay attention to your breathing. Your mind will wander to thoughts. Then you bring your attention back to your breathing where it can’t think. Wander. Retreat. Keep returning to breath no thoughts. That is all.",
+        "zh": "冥想时，坐下专注于呼吸。你的思绪会游离，然后你再把注意力拉回到无法思考的呼吸上。走神，回归，再回到呼吸和无念，仅此而已。"
+    },
+    {
+        "id": 369,
+        "en": "Five years from now you will wish you had started today.",
+        "zh": "五年后的你会希望从今天就开始。"
+    },
+    {
+        "id": 370,
+        "en": "If we all threw our troubles into a big pile and we saw everyone else’s problems we would immediately grab ours back.",
+        "zh": "如果我们都把自己的烦恼丢到一大堆里，看见别人的问题后，会立刻把自己的拿回来。"
+    },
+    {
+        "id": 371,
+        "en": "Your heart needs to be as educated as your mind.",
+        "zh": "你的心和你的头脑一样需要受教育。"
+    },
+    {
+        "id": 372,
+        "en": "You can’t change your past but you can change your story about it. What is important is not what happened to you but what you did about what happened to you.",
+        "zh": "你无法改变过去，但你可以改变你对过去的叙述。重要的不在于发生了什么，而在于你如何对待那些发生过的事。"
+    },
+    {
+        "id": 373,
+        "en": "To have a great trip, head toward an interest rather than to a place. Travel to passions rather than destinations.",
+        "zh": "想要一场精彩的旅行，朝着你的兴趣去，而不是某个地点。与其为目的地而行，不如为热情而行。"
+    },
+    {
+        "id": 374,
+        "en": "Let your children choose their punishments. They’ll be tougher than you will.",
+        "zh": "让你的孩子自己选择惩罚方式，他们会比你更严格。"
+    },
+    {
+        "id": 375,
+        "en": "In the garden dig a $100 hole for a $10 plant.",
+        "zh": "在花园里，为10美元的植物挖一个100美元的坑。"
+    },
+    {
+        "id": 376,
+        "en": "Fully embrace “What is the worst that can happen?” at each juncture in life. Rehearsing your response to the “worst” can reveal it as an adventure and rob it of its power to stall you.",
+        "zh": "在人生的每个关头，彻底尝试“最坏会怎样？”提前演练对最坏情况的应对，会让你把它看成一场冒险，也就不再被它束缚。"
+    },
+    {
+        "id": 377,
+        "en": "Make one to throw away. The only way to write a great book is to first write an awful book. Ditto for a movie, song, piece of furniture or anything.",
+        "zh": "先写一个可以扔掉的版本。写一本好书的唯一办法，是先写一本烂书。电影、歌曲、家具、任何东西都一样。"
+    },
+    {
+        "id": 378,
+        "en": "For lofty goals, measure your progress from where you started rather than where you need to finish.",
+        "zh": "对于远大的目标，要从你出发的地方衡量进步，不要只看离终点还有多远。"
+    },
+    {
+        "id": 379,
+        "en": "You increase your chance of successfully removing a clothing stain if you keep it wet while you work on it. It’s much harder once it dries out.",
+        "zh": "清理衣服污渍时，保持湿润能提高去除成功率。等它干了就难多了。"
+    },
+    {
+        "id": 380,
+        "en": "Anger is not the proper response to anger. When you see someone angry you are seeing their pain. Compassion is the proper response to anger.",
+        "zh": "用愤怒回应愤怒并不合适。你看到的愤怒，其实是对方的痛苦。对愤怒，最好的回应是同情。"
+    },
+    {
+        "id": 381,
+        "en": "When you find something you really enjoy do it slowly.",
+        "zh": "当遇到真正喜欢的事情时，要慢慢去做。"
+    },
+    {
+        "id": 382,
+        "en": "Ignore dogs that bark. Look for the charging dog not barking. That is the one who bites.",
+        "zh": "别理那些叫的狗，要注意那些冲过来但不叫的狗，那才会咬人。"
+    },
+    {
+        "id": 383,
+        "en": "Assuming you are average half of the world will be less proficient than you. Through no fault of their own many of these people can’t handle forms complex instructions, or tricky situations. Be kind to them because the world is not.",
+        "zh": "假如你是普通人，那么世界上有一半人比你弱。许多人不是他们的错，却无法应付表格、复杂指令和棘手场合。对他们要友善，因为世界并不善待他们。"
+    },
+    {
+        "id": 384,
+        "en": "Your flaws and your strengths are two poles of the same traits. For instance, there is only a tiny difference between stubbornness and perseverance or between courage and foolishness. The sole difference is in the goal. It’s stupid stubbornness and reckless foolishness if the goal does not matter, and relentless perseverance and courage if it does. To earn dignity with your flaws own up to them, and make sure you push on things that matter.",
+        "zh": "你的缺点和优点其实是同一特质的两极。例如，固执与坚韧、勇敢与愚蠢，差别仅在目标。如果目标无意义就是愚蠢和顽固，如果目标有意义就是坚持和勇敢。要让缺点变有尊严，首先要承认它，同时确保把精力用在有意义的事情上。"
+    },
+    {
+        "id": 385,
+        "en": "The end is almost always the beginning of something better.",
+        "zh": "终结几乎总是更美好事物的开始。"
+    },
+    {
+        "id": 386,
+        "en": "It is impossible for you to become poor by giving. It is impossible for you to become wealthy without giving.",
+        "zh": "你无法因为给予而变贫穷，也无法因为吝啬而变富有。"
+    },
+    {
+        "id": 387,
+        "en": "Try hard to solicit constructive criticism early. You want to hear what’s not working as soon as possible. When it is finished you can’t improve it.",
+        "zh": "尽早主动寻求建设性的批评。越早知道哪里有问题越好，等做完了就无法再改进了。"
+    },
+    {
+        "id": 388,
+        "en": "To get better at speaking watch a recording of yourself speaking. It is shocking and painful but an effective way to improve.",
+        "zh": "想提升口才，去看自己讲话的录像录音。这过程虽然让人震惊而难受，但十分有效。"
+    },
+    {
+        "id": 389,
+        "en": "Don’t attribute to malice what can be explained by incompetence.",
+        "zh": "能用无能解释的事，不要归咎于恶意。"
+    },
+    {
+        "id": 390,
+        "en": "Worry is ineffective. It is certain that 99% of the stuff you are anxious about won’t happen.",
+        "zh": "担心没有作用。你担心的99%事情都不会发生。"
+    },
+    {
+        "id": 391,
+        "en": "You can ignore any website with the word “truth” in its URL.",
+        "zh": "任何网址里带有“truth”（真相）的网站都可以忽略。"
+    },
+    {
+        "id": 392,
+        "en": "Be extremely stingy in making promises because you must be generous in keeping them.",
+        "zh": "承诺时要极其吝啬，履行时要非常慷慨。"
+    },
+    {
+        "id": 393,
+        "en": "Don’t mistake a clear view of the future for a short distance.",
+        "zh": "不要把未来看得清楚误以为前路很近。"
+    },
+    {
+        "id": 394,
+        "en": "A proper apology consists of conveying the 3 Rs: regret (genuine empathy with the other) responsibility (not blaming someone else) and remedy (your willingness to fix it).",
+        "zh": "恰当的道歉需包含三R：懊悔（真心体谅对方）、责任（不推卸给别人）、补救（愿意修正错误）。"
+    },
+    {
+        "id": 395,
+        "en": "The best way to advise young people is to find out what they really want to do and then advise them to do it.",
+        "zh": "给年轻人建议的最好方式，是先弄清他们真正想做什么，然后鼓励他们去做。"
+    },
+    {
+        "id": 396,
+        "en": "It is usually much easier to make big audacious changes than small incremental ones.",
+        "zh": "往往大刀阔斧的改动比小步缓行还要容易。"
+    },
+    {
+        "id": 397,
+        "en": "The big dirty secret is that everyone especially the famous are just making it up as they go along.",
+        "zh": "有一个惊人的事实：所有人，尤其是名人，其实都是在边走边摸索。"
+    },
+    {
+        "id": 398,
+        "en": "There is no perfection, only progress. Done is much better than perfect.",
+        "zh": "没有完美，只有进步。完成远胜于完美。"
+    },
+    {
+        "id": 399,
+        "en": "You choose to be lucky by believing that any setbacks are just temporary.",
+        "zh": "相信挫折只是暂时的，你就选择了幸运。"
+    },
+    {
+        "id": 400,
+        "en": "If nobody else does what you do you won’t need a resume.",
+        "zh": "如果没人能做你做的事，你就无需简历。"
+    },
+    {
+        "id": 401,
+        "en": "To lower tensions during a dispute, mirror the other person’s body language.",
+        "zh": "争执时，模仿对方的肢体语言可以缓和气氛。"
+    },
+    {
+        "id": 402,
+        "en": "For a great payoff be especially curious about the things you are not interested in.",
+        "zh": "想获得巨大收获，对你本身不感兴趣的事物要特别好奇。"
+    },
+    {
+        "id": 403,
+        "en": "It is not hard to identify a thief: It is the one who believes that everybody steals.",
+        "zh": "认出小偷并不难：他总觉得每个人都是贼。"
+    },
+    {
+        "id": 404,
+        "en": "We are unconsciously distracted by seeing our reflection. You can alleviate a lot of the fatigue of teleconferencing all day if you turn off your self-view.",
+        "zh": "看到自己的影像时，我们会下意识分神。长时间视频会议可以通过关闭自我画面缓解疲劳。"
+    },
+    {
+        "id": 405,
+        "en": "Read the books that your favorite authors once read.",
+        "zh": "去读你最喜欢的作家曾经读过的书。"
+    },
+    {
+        "id": 406,
+        "en": "When you can’t decide ask yourself, “Which choice will pay off more later than now?” The easy choice pays off right away. The best choice will pay off at the end.",
+        "zh": "犹豫不决时，问问自己：“哪个选择以后受益更大？”简单的选择马上有回报，最好的选择在最后受益最大。"
+    },
+    {
+        "id": 407,
+        "en": "As long as an idea stays in your head it is perfect. But perfect things are never real. Immediately put an idea down into words or in a sketch, or as a cardboard prototype. Now your idea is much closer to reality because it is imperfect.",
+        "zh": "只要想法停留在你脑中，它就完美无瑕。但完美的东西从不存在。把想法立刻写下来、画出来、或做个纸板模型。它不再完美，但更接近真实。"
+    },
+    {
+        "id": 408,
+        "en": "Trust the 3-star product reviews because they tell both the good and the bad, which is the real state for most things.",
+        "zh": "相信三颗星的产品评价，因为它们兼谈优缺点，这才符合大多数事物的真实情况。"
+    },
+    {
+        "id": 409,
+        "en": "First, always ask for what you want. Works in relationships, business, life.",
+        "zh": "首先，学会直接提出你的需求。无论是感情、事业还是生活都如此。"
+    },
+    {
+        "id": 410,
+        "en": "Even if you don’t say anything if you listen carefully people will consider you a great conversationalist.",
+        "zh": "即便你什么都不说，只要认真聆听，大家也会觉得你是很棒的谈话者。"
+    },
+    {
+        "id": 411,
+        "en": "Curiosity is fatal to certainty. The more curious you are the less certain you’ll be.",
+        "zh": "好奇心会动摇确定性。你越好奇，越不会盲目自信。"
+    },
+    {
+        "id": 412,
+        "en": "Measure your wealth not by the things you can buy but by the things that no money can buy.",
+        "zh": "衡量财富，不看你能买什么，而看你拥有了哪些钱买不到的东西。"
+    },
+    {
+        "id": 413,
+        "en": "To learn from your mistakes first laugh at your mistakes.",
+        "zh": "想从错误中学习，先学会对自己的错误一笑置之。"
+    },
+    {
+        "id": 414,
+        "en": "It’s unfortunate when someone you carefully trained leaves; but it is worse if you don’t train them and they stay.",
+        "zh": "辛苦培养的人离开固然可惜，但如果没培训他们却留在身边，那会更糟。"
+    },
+    {
+        "id": 415,
+        "en": "Your opinion on a contentious issue gains power when you can argue the opposite side as well as they can.",
+        "zh": "在有争议的话题上，只有能像对方那样辩护另一方的观点，你的观点才更有力量。"
+    },
+    {
+        "id": 416,
+        "en": "When you keep people waiting they begin to think of all your flaws.",
+        "zh": "让人久等时，他们会开始想你的各种毛病。"
+    },
+    {
+        "id": 417,
+        "en": "Trust is earned in drops and lost in buckets. Unwavering honesty will help seal in trust.",
+        "zh": "信任像水滴一样慢慢积累，像水桶一样瞬间丧失。始终诚实能帮助你守住信任。"
+    },
+    {
+        "id": 418,
+        "en": "An honest friend is someone who wants nothing at all from you.",
+        "zh": "真正诚实的朋友是那种对你毫无所求的人。"
+    },
+    {
+        "id": 419,
+        "en": "You will spend one third of your life in your bed sleeping, and almost another third in your chair sitting. It’s worth investing in a great bed and fantastic chair.",
+        "zh": "你一生有三分之一时间在床上睡觉，差不多还有三分之一坐在椅子上。值得投资一张好床和一把好椅子。"
+    },
+    {
+        "id": 420,
+        "en": "The purpose of listening is not to reply, but to hear what is not being said.",
+        "zh": "倾听的目的不是回应，而是听懂那些没有说出口的内容。"
+    },
+    {
+        "id": 421,
+        "en": "Don’t spoil a movie you are sure to see by watching the trailer. Only watch trailers for movies you are unsure of, or unlikely to see.",
+        "zh": "如果某部电影你肯定会去看，别提前看预告片。预告片只适合了解那些你不确定看的电影。"
+    },
+    {
+        "id": 422,
+        "en": "Your best teacher is your last mistake.",
+        "zh": "你最好的老师，是你犯下的上一个错误。"
+    },
+    {
+        "id": 423,
+        "en": "On the dashboard of every gasoline car is a symbol of gas pump with a little arrow. The arrow points to the side of the car that accesses your gas tank. Remember this when you borrow or rent a car.",
+        "zh": "每辆汽油车仪表盘上都有一个加油泵的标识，并带有小箭头。小箭头所指方向就是加油口一侧。借车或租车时，记住这一点。"
+    },
+    {
+        "id": 424,
+        "en": "The perfect kind of art to display in your home are odd pieces that a child is unlikely to forget.",
+        "zh": "家里最值得挂的艺术品，是那些孩子们难以忘怀的奇特作品。"
+    },
+    {
+        "id": 425,
+        "en": "Spending as little as 15 minutes (1% of your day) on improving how you do your thing, is the most powerful way to amplify and advance your thing.",
+        "zh": "每天花15分钟（相当于1%时间）改进自己的做事方式，是最能增强和提升自己的方法。"
+    },
+    {
+        "id": 426,
+        "en": "Instead of asking your child what they learned today, ask them who they helped today.",
+        "zh": "与其问孩子今天学了什么，不如问他们今天帮了谁。"
+    },
+    {
+        "id": 427,
+        "en": "The greatest killer of happiness is comparison. If you must compare, compare yourself to you yesterday.",
+        "zh": "最大的幸福杀手是比较。如果非要比较，那就跟昨天的自己比。"
+    },
+    {
+        "id": 428,
+        "en": "Your 20s are the perfect time to do a few things that are unusual, weird, bold, risky, unexplainable, crazy, unprofitable, and look nothing like “success.” For the rest of your life these experiences will serve as your muse.",
+        "zh": "二十多岁，是尝试怪异、特别、大胆、冒险、难以解释、疯狂、不赚钱、与“成功”毫无关系的事的最佳时期。此后的人生，这些经历会成为你的灵感源泉。"
+    },
+    {
+        "id": 429,
+        "en": "Don’t define yourself by your opinions because then you can’t change your mind. Define yourself by your values.",
+        "zh": "不要用观点定义自己，否则就无法改变想法。用价值观定义你自己。"
+    },
+    {
+        "id": 430,
+        "en": "To succeed once focus on the outcome; to keep succeeding focus on the process that makes the outcome.",
+        "zh": "一次成功靠专注于结果，持续成功则要专注于成就结果的过程。"
+    },
+    {
+        "id": 431,
+        "en": "Your ideal partner is not someone you never disagree with but someone you are glad to disagree with.",
+        "zh": "理想伴侣不是从不和你争执，而是你乐于与之争执的人。"
+    },
+    {
+        "id": 432,
+        "en": "An open heart is the most direct path to an open mind.",
+        "zh": "敞开心扉是通向开阔思想的最佳路径。"
+    },
+    {
+        "id": 433,
+        "en": "If you are stuck in life travel to a place you have never heard of.",
+        "zh": "人生卡壳时，去一个你没听说过的地方。"
+    },
+    {
+        "id": 434,
+        "en": "Being curious about another person’s view is the most powerful way to change their view.",
+        "zh": "想要改变一个人的看法，最有力的方法是对他们的观点保持好奇。"
+    },
+    {
+        "id": 435,
+        "en": "If you don’t care about your people they won’t care about your mission.",
+        "zh": "你若不关心你的人，他们就不会关心你的使命。"
+    },
+    {
+        "id": 436,
+        "en": "To speed a meeting up require that any person who speaks must say something no one else in the room knows.",
+        "zh": "为了加快会议进度，可以规定发言者必须讲出别人还不知道的信息。"
+    },
+    {
+        "id": 437,
+        "en": "The rich have money. The wealthy have time. It is easier to become wealthy than rich.",
+        "zh": "富人有钱，真正有财富的人有时间。成为“有时间的人”比“有钱的人”简单。"
+    },
+    {
+        "id": 438,
+        "en": "If you want to go fast, go alone; if you want to go further, go together.",
+        "zh": "想走得快，一个人走；想走得远，一起走。"
+    },
+    {
+        "id": 439,
+        "en": "Your best photo portrait will be taken not while you are smiling but when you are quiet a moment after you have been laughing. Use a photographer who makes you laugh.",
+        "zh": "你最好的肖像照，不是在微笑时拍的，而是大笑过后安静的一刻。找会让你发笑的摄影师。"
+    },
+    {
+        "id": 440,
+        "en": "If your sense of responsibility is not expanding as you grow you are not really growing.",
+        "zh": "如果你的责任感没有随着成长而增强，你就没有真正成长。"
+    },
+    {
+        "id": 441,
+        "en": "When making plans you must allow yourself to get lost in order to find the thing you didn’t know you were looking for.",
+        "zh": "制定计划时，要允许自己迷路，这样你才能找到那些你本来不知道要找的东西。"
+    },
+    {
+        "id": 442,
+        "en": "The natural state of all possessions is to need repair and maintenance. What you own will eventually own you. Choose selectively.",
+        "zh": "所有物品的自然状态就是需要维修和保养。你拥有的东西，最终也会“拥有”你，所以要慎重选择。"
+    },
+    {
+        "id": 443,
+        "en": "To write about something hard to explain write a detailed letter to a friend about why it is so hard to explain, and then remove the initial “Dear Friend” part and you’ll have a great first draft.",
+        "zh": "要写难以解释的主题时，先给朋友写封详细信件，说明为何难解释。然后删掉“亲爱的朋友”开头，你就有了一份很好的初稿。"
+    },
+    {
+        "id": 444,
+        "en": "Commit to doing no work no business no income one day a week. Call it a sabbath (or not). Use that day for resting, recharging, and cultivating the most important things in life. Counterintuitively, this sabbath will prove to be your most productive act all week.",
+        "zh": "每周抽一天完全不工作、不做生意、不赚钱。叫它安息日也好，不叫也行。那天用于休息、充电及培养最重要的人和事。看似反常，这一天最终会变成你一周最高产的一天。"
+    },
+    {
+        "id": 445,
+        "en": "Embrace pronoia which is the opposite of paranoia. Choose to believe that the entire universe is conspiring behind your back to make you a success.",
+        "zh": "接受“顺害妄想症”（与被害妄想相反）：相信整个宇宙都在背后助你成功。"
+    },
+    {
+        "id": 446,
+        "en": "Go with the option that opens up yet more options.",
+        "zh": "选择那个能带来更多选择的选项。"
+    },
+    {
+        "id": 447,
+        "en": "The first step is usually to complete the last step. You can’t load into a full dish rack.",
+        "zh": "第一步通常是把上次的最后一步做完。你无法在一架已经满了的碟架上装盘。"
+    },
+    {
+        "id": 448,
+        "en": "When you are stuck, make a long list of everything that cannot possibly work. On that list will be a seed that leads to a solution that will work.",
+        "zh": "遇到瓶颈时，把所有绝对不可能行得通的方法罗列出来。你会从中发现引向解决方案的线索。"
+    },
+    {
+        "id": 449,
+        "en": "Right now no matter your age these are your golden years. The good stuff will yield golden memories and the bad stuff will yield golden lessons.",
+        "zh": "不论你几岁，现在都是你的黄金岁月。美好的记忆来自美好时光，宝贵教训来自苦涩经历。"
+    },
+    {
+        "id": 450,
+        "en": "The most effective remedy for anger is delay.",
+        "zh": "延迟是消解愤怒的最佳良方。"
+    },
+    {
+        "id": 451,
+        "en": "Re-visioning the ordinary is what art, literature, and comedy do. You can elevate mundane details into magical wonders simply by noticing them.",
+        "zh": "重新审视平凡，是艺术、文学和喜剧的核心。仅仅善于发现寻常事物，也能让它们神奇起来。"
+    },
+    {
+        "id": 452,
+        "en": "Aim to die broke. Give to your beneficiaries before you die; it’s more fun and useful to them. Spend it all. Your last check should go to the funeral home and it should bounce.",
+        "zh": "努力在死时身无分文。在你去世前把财产分给受益人；这对他们来说更有趣也更有用。把钱花光。你开出的最后一张支票应该是给殡仪馆的，而且应该跳票。"
+    },
+    {
+        "id": 453,
+        "en": "See that old person taking forever in line? That is the future you. Have patience.",
+        "zh": "看到那个排队很慢的老人了吗？那就是未来的你。请耐心一点。"
+    },
+    {
+        "id": 454,
+        "en": "Invent as many family rituals as you can handle with ease. Anything done on a schedule —large or small, significant or silly— can become a ritual. Repeated consistently small routines become legendary. Anticipation is key.",
+        "zh": "尽可能轻松地创造出你能承受的家庭仪式。任何按计划进行的事情——无论大小、重要或愚蠢——都可以变成一种仪式。持续重复的小习惯终将变得传奇。关键在于期待感。"
+    },
+    {
+        "id": 455,
+        "en": "The chief prevention against getting old is to remain astonished.",
+        "zh": "防止变老的最好方法是保持对世界的惊奇感。"
+    },
+    {
+        "id": 456,
+        "en": "Art before laundry.",
+        "zh": "艺术优先于洗衣。"
+    },
+    {
+        "id": 457,
+        "en": "Life lessons will be presented to you in the order they are needed. Everything you need to master the lesson is within you. Once you have truly learned a lesson you will be presented with the next one. If you are alive that means you still have lessons to learn.",
+        "zh": "人生的课题会按你需要的顺序出现。你掌握所需的一切都已存在于你体内。一旦你真正学会了一课，下一课就会到来。只要你还活着，就还有要学的功课。"
+    },
+    {
+        "id": 458,
+        "en": "Very few regrets in life are about what you did. Almost all are about what you didn’t do.",
+        "zh": "人生中很少有人后悔自己做过的事，几乎所有的遗憾都来自那些没做的事。"
+    },
+    {
+        "id": 459,
+        "en": "Your goal is to be able to say on the day before you die that you have fully become yourself.",
+        "zh": "你的人生目标，是在临终前一天能说出：你已经完全成为了你自己。"
+    },
+    {
+        "id": 460,
+        "en": "Advice like these are not laws. They are like hats. If one doesn’t fit, try another.",
+        "zh": "这样的建议不是法律，它们像帽子一样。如果这顶不合适，就试试另一顶。"
     }
 ];
